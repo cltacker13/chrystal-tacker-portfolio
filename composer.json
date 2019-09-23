@@ -1,5 +1,6 @@
 {
     "require": {
-        "chrystal-tacker-portfolio/Portfolio/"
+        "Users/cltac"
+        "wamp64/www/Portfolio"
     }
 }
