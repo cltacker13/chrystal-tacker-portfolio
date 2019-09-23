@@ -1,6 +1,7 @@
-{
-    "require": {
-        "Users/cltac",
-        "wamp64/www"
+{ 
+    "name": "cltac/portfolio",
+    "description": "public portfolio",
+    "require":{
+         "wamp64/www":"1.0.*"
     }
 }
