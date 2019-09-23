@@ -14,7 +14,7 @@ echo $page->bodyTitle($pageName);
 
 echo '<div class="content">'
     . $page->contentTitle('About the Site')
-    . $page->contentText('<p>This is a collection of my works. I have worked on various types of projects.'
+    . $page->contentText('<p>This is a small collection of my projects. I have worked on various types of projects.'
         . ' So you will see written work from academic and professional settings.'
         . ' As well as hobby work in photography and even woodwork. </p>'
         . '<p>I am sharing a piece of what I am capable of doing with you.</p>')
