@@ -1,7 +1,0 @@
-{ 
-    "name": "cltac/portfolio",
-    "description": "public portfolio",
-    "require":{
-         "wamp64/www":"1.0.*"
-    }
-}
