@@ -1,6 +1,6 @@
 {
     "require": {
-        "Users/cltac"
-        "wamp64/www/Portfolio"
+        "Users/cltac",
+        "wamp64/www"
     }
 }
